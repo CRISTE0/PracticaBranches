@@ -7,3 +7,7 @@ if (n) {
 } else {
     console.log("no mames");
 };
+
+
+
+// mi papa me pega
